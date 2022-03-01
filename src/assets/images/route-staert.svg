@@ -1,0 +1,20 @@
+<svg 
+  xmlns="http://www.w3.org/2000/svg" 
+  width="40" 
+  height="40" 
+  viewBox="0 0 180 180" 
+  fill="none">
+  <circle     
+    r="60"
+    cx="90" 
+    cy="90" 
+    fill="#f25130" 
+    >
+  </circle>
+  <circle 
+    r="30"
+    cx="90" 
+    cy="90" 
+    fill="white"  
+  />
+</svg>
